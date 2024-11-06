@@ -15,3 +15,4 @@ C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj
 C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ProductManagement.Data.pdb
 C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ProductManagement.Data.genruntimeconfig.cache
 C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ref\ProductManagement.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ProductManagement.Data.sourcelink.json

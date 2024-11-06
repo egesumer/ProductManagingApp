@@ -9,3 +9,4 @@ C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\obj
 C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\obj\Debug\net8.0\refint\ProductManagement.Core.dll
 C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.pdb
 C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\obj\Debug\net8.0\ref\ProductManagement.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.sourcelink.json

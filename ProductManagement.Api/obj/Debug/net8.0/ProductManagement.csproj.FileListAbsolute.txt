@@ -148,3 +148,4 @@ C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Api\obj\
 C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Api\obj\Debug\net8.0\ProductManagement.genruntimeconfig.cache
 C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Api\obj\Debug\net8.0\ref\ProductManagement.dll
 C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Api\bin\Debug\net8.0\ProductManagement.staticwebassets.runtime.json
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Api\obj\Debug\net8.0\ProductManagement.sourcelink.json

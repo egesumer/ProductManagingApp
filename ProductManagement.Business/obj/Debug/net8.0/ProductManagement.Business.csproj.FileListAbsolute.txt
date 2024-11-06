@@ -15,3 +15,4 @@ C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business
 C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\refint\ProductManagement.Business.dll
 C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\ProductManagement.Business.pdb
 C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\ref\ProductManagement.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\ProductManagement.Business.sourcelink.json

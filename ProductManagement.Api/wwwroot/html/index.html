@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Product Management</title>
-    <link rel="stylesheet" href="../css/styles.css"> <!-- CSS Dosyanızı Bağlayın -->
+    <link rel="stylesheet" href="../css/styles.css"> 
 </head>
 <body>
     <div class="container">
@@ -16,7 +16,7 @@
                 <input type="text" id="name" placeholder="Product Name" required>
                 <input type="text" id="productCode" placeholder="Product Code" required>
                 <input type="number" id="price" placeholder="Price" required>
-                <input type="text" id="productImage" placeholder="Product Image URL" required> <!-- Resim URL'si -->
+                <input type="text" id="productImage" placeholder="Product Image URL" required> 
                 <button id="addProduct" class="btn btn-primary">Add Product</button>
             </div>
         </div>
@@ -28,12 +28,12 @@
                     <th>Name</th>
                     <th>Product Code</th>
                     <th>Price</th>
-                    <th>Image</th> <!-- Resim için yeni bir sütun ekledik -->
+                    <th>Image</th> 
                     <th>Actions</th>
                 </tr>
             </thead>
             <tbody>
-                <!-- Ürünler buraya yüklenecek -->
+               
             </tbody>
         </table>
 
@@ -42,16 +42,16 @@
             <div class="modal-content">
                 <span class="close" id="closeModal">&times;</span>
                 <h2>Edit Product</h2>
-                <input type="hidden" id="editProductId"> <!-- Düzenlenecek ürünün ID'sini saklamak için -->
+                <input type="hidden" id="editProductId"> 
                 <input type="text" id="editName" placeholder="Product Name" required>
                 <input type="text" id="editProductCode" placeholder="Product Code" required>
                 <input type="number" id="editPrice" placeholder="Price" required>
-                <input type="text" id="editProductImage" placeholder="Product Image URL" required> <!-- Resim URL'si -->
+                <input type="text" id="editProductImage" placeholder="Product Image URL" required> 
                 <button id="updateProduct" class="btn btn-primary">Update Product</button>
             </div>
         </div>
     </div>
 
-    <script src="../js/scripts.js"></script> <!-- JS Dosyanızı Bağlayın -->
+    <script src="../js/scripts.js"></script> 
 </body>
 </html>
