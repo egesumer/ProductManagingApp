@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "YpXL3Jm6P51a79vfch6i7FScqHdwJZWFdTzTAQnw19s=",
+  "Source": "ProductManagement",
+  "BasePath": "_content/ProductManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductManagement\\wwwroot",
+      "Source": "ProductManagement",
+      "ContentRoot": "C:\\Users\\egesu\\OneDrive\\Masaüstü\\Product Management\\ProductManagement.Api\\wwwroot\\",
+      "BasePath": "_content/ProductManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\egesu\\OneDrive\\Masaüstü\\Product Management\\ProductManagement.Api\\wwwroot\\css\\styles.css",
+      "SourceId": "ProductManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\egesu\\OneDrive\\Masaüstü\\Product Management\\ProductManagement.Api\\wwwroot\\",
+      "BasePath": "_content/ProductManagement",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\egesu\\OneDrive\\Masaüstü\\Product Management\\ProductManagement.Api\\wwwroot\\html\\index.html",
+      "SourceId": "ProductManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\egesu\\OneDrive\\Masaüstü\\Product Management\\ProductManagement.Api\\wwwroot\\",
+      "BasePath": "_content/ProductManagement",
+      "RelativePath": "html/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\egesu\\OneDrive\\Masaüstü\\Product Management\\ProductManagement.Api\\wwwroot\\js\\scripts.js",
+      "SourceId": "ProductManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\egesu\\OneDrive\\Masaüstü\\Product Management\\ProductManagement.Api\\wwwroot\\",
+      "BasePath": "_content/ProductManagement",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
+    }
+  ]
+}

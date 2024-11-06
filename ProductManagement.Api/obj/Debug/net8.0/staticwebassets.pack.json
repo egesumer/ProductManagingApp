@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\egesu\\OneDrive\\Masaüstü\\Product Management\\ProductManagement.Api\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\egesu\\OneDrive\\Masaüstü\\Product Management\\ProductManagement.Api\\wwwroot\\html\\index.html",
+      "PackagePath": "staticwebassets\\html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\egesu\\OneDrive\\Masaüstü\\Product Management\\ProductManagement.Api\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProductManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProductManagement.props",
+      "PackagePath": "build\\ProductManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductManagement.props",
+      "PackagePath": "buildMultiTargeting\\ProductManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProductManagement.props",
+      "PackagePath": "buildTransitive\\ProductManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

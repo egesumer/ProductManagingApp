@@ -1,0 +1,17 @@
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\bin\Debug\net8.0\ProductManagement.Business.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\bin\Debug\net8.0\ProductManagement.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\bin\Debug\net8.0\ProductManagement.Business.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\bin\Debug\net8.0\ProductManagement.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\bin\Debug\net8.0\ProductManagement.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\bin\Debug\net8.0\ProductManagement.Data.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\bin\Debug\net8.0\ProductManagement.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\ProductManagement.Business.csproj.AssemblyReference.cache
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\ProductManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\ProductManagement.Business.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\ProductManagement.Business.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\ProductManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\ProductM.73B20525.Up2Date
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\ProductManagement.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\refint\ProductManagement.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\ProductManagement.Business.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Business\obj\Debug\net8.0\ref\ProductManagement.Business.dll

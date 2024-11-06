@@ -1,0 +1,11 @@
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\bin\Debug\net8.0\ProductManagement.Core.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\bin\Debug\net8.0\ProductManagement.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\bin\Debug\net8.0\ProductManagement.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\obj\Debug\net8.0\refint\ProductManagement.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Core\obj\Debug\net8.0\ref\ProductManagement.Core.dll

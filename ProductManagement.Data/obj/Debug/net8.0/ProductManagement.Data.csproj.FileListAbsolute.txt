@@ -1,0 +1,17 @@
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\bin\Debug\net8.0\ProductManagement.Data.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\bin\Debug\net8.0\ProductManagement.Data.runtimeconfig.json
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\bin\Debug\net8.0\ProductManagement.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\bin\Debug\net8.0\ProductManagement.Data.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\bin\Debug\net8.0\ProductManagement.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\bin\Debug\net8.0\ProductManagement.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ProductManagement.Data.csproj.AssemblyReference.cache
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ProductManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ProductManagement.Data.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ProductManagement.Data.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ProductManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ProductM.A2840B78.Up2Date
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ProductManagement.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\refint\ProductManagement.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ProductManagement.Data.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ProductManagement.Data.genruntimeconfig.cache
+C:\Users\egesu\OneDrive\Masaüstü\Product Management\ProductManagement.Data\obj\Debug\net8.0\ref\ProductManagement.Data.dll
